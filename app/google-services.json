@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257299410308",
+    "firebase_url": "https://daiproyectofinal.firebaseio.com",
+    "project_id": "daiproyectofinal",
+    "storage_bucket": "daiproyectofinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257299410308:android:e9337e2f62bfee24",
+        "android_client_info": {
+          "package_name": "com.example.alonsomartinez.mapasdaifinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257299410308-stglf6vkpqomatji0h69j51iaqbrlu6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alonsomartinez.mapasdaifinal",
+            "certificate_hash": "5664c960aeb4d606d0f39777ee6a6821f4b56337"
+          }
+        },
+        {
+          "client_id": "257299410308-uoar5k3em3q3eqm9qhla0dbv1slg49m0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQoQAijJmaKqcx61HerY8om3i66XR_Zrw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257299410308-uoar5k3em3q3eqm9qhla0dbv1slg49m0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
